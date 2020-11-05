@@ -1,3 +1,5 @@
-#### This is a template for creeate-react-app with SASS
+### This is a template for create-react-app with SASS
 
-### Please update this readme
+#### Type `yarn` to install dependencies
+
+##### Please update this readme
